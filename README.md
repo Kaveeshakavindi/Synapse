@@ -1,4 +1,4 @@
-# SYNAPSE — Evidence-Grounded ESG Greenwashing Detection
+# SYNAPSE 
 
 SYNAPSE is an web application that evaluates a company's ESG (Environmental, Social, Governance) claims and flags likely **greenwashing** ; sustainability marketing that outpaces the evidence behind it. 
 
