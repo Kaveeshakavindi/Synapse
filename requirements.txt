@@ -19,7 +19,4 @@ langchain-community
 # python -m spacy download en_core_web_sm
 # python -m factscore.download_data --llama_7B_HF_path "llama-7B"
 # pip install fastapi uvicorn
-<<<<<<< HEAD
 # pip install -U langchain-anthropic
-=======
->>>>>>> c6f1b0fed3f17a5ced5ccef3c48defb6b72336ee
